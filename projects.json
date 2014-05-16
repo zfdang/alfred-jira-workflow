@@ -1,0 +1,222 @@
+[
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12390&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12390&avatarId=10011"
+        },
+        "id": "12390",
+        "key": "CSP",
+        "name": "China Sales Pipeline",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/CSP"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12140&avatarId=10000",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12140&avatarId=10000"
+        },
+        "id": "12140",
+        "key": "CLIENTHELP",
+        "name": "CLIENTHELP",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/CLIENTHELP"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12170&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12170&avatarId=10011"
+        },
+        "id": "12170",
+        "key": "COMM",
+        "name": "Commercialization",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/COMM"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12142&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12142&avatarId=10011"
+        },
+        "id": "12142",
+        "key": "SEHELP",
+        "name": "DEPRECATED - DO NOT USE",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/SEHELP"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12591&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12591&avatarId=10011"
+        },
+        "id": "12591",
+        "key": "EDTP",
+        "name": "Eng Dashboard Testing Project",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/EDTP"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=10071&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=10071&avatarId=10011"
+        },
+        "id": "10071",
+        "key": "FDB",
+        "name": "Feature Database (Product Backlog)",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/FDB"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12162&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12162&avatarId=10011"
+        },
+        "id": "12162",
+        "key": "FFR",
+        "name": "Field Feature Requests",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/FFR"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12110&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12110&avatarId=10011"
+        },
+        "id": "12110",
+        "key": "INF",
+        "name": "INF Infrastructure Project",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/INF"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=10040&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=10040&avatarId=10011"
+        },
+        "id": "10040",
+        "key": "MAUI",
+        "name": "MAUI (closed project, do not use)",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/MAUI"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=10060&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=10060&avatarId=10011"
+        },
+        "id": "10060",
+        "key": "MRM",
+        "name": "MRM Development (Evolving Sprint Backlog)",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/MRM"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12133&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12133&avatarId=10011"
+        },
+        "id": "12133",
+        "key": "CORP",
+        "name": "Operations - Corporate Support",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/CORP"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12090&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12090&avatarId=10011"
+        },
+        "id": "12090",
+        "key": "OPS",
+        "name": "Operations - Production Support",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/OPS"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12590&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12590&avatarId=10011"
+        },
+        "id": "12590",
+        "key": "PREV",
+        "name": "PREVIEW",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/PREV"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12150&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12150&avatarId=10011"
+        },
+        "id": "12150",
+        "key": "QOS",
+        "name": "QOS",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/QOS"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12112&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12112&avatarId=10011"
+        },
+        "id": "12112",
+        "key": "QA",
+        "name": "Quality Assurance Tasks",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/QA"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12160&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12160&avatarId=10011"
+        },
+        "id": "12160",
+        "key": "RPM",
+        "name": "RPM Development (Evolving Sprint Backlog)",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/RPM"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12290&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12290&avatarId=10011"
+        },
+        "id": "12290",
+        "key": "SVC",
+        "name": "Services",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/SVC"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12490&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12490&avatarId=10011"
+        },
+        "id": "12490",
+        "key": "TZ",
+        "name": "Test Zendesk",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/TZ"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12190&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12190&avatarId=10011"
+        },
+        "id": "12190",
+        "key": "TRAIN",
+        "name": "Training",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/TRAIN"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=12111&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=12111&avatarId=10011"
+        },
+        "id": "12111",
+        "key": "DOC",
+        "name": "Training & Documentation (Closed, NO LONGER in use)",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/DOC"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=10091&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=10091&avatarId=10011"
+        },
+        "id": "10091",
+        "key": "UI",
+        "name": "UI Team Internal Tasks",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/UI"
+    },
+    {
+        "avatarUrls": {
+            "16x16": "http://jira.freewheel.tv/secure/projectavatar?size=small&pid=10081&avatarId=10011",
+            "48x48": "http://jira.freewheel.tv/secure/projectavatar?pid=10081&avatarId=10011"
+        },
+        "id": "10081",
+        "key": "TICKET",
+        "name": "VI Tasks (Deprecated, DON'T use)",
+        "self": "http://jira.freewheel.tv/rest/api/2/project/TICKET"
+    }
+]
