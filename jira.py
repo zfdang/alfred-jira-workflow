@@ -7,12 +7,13 @@ import json
 import sys
 import os.path
 
-PROJECTS = ["http://jira.freewheel.tv/browse/CLIENTHELP",
-            "http://jira.freewheel.tv/browse/MRM",
-            "http://jira.freewheel.tv/browse/FDB",
-            "http://jira.freewheel.tv/browse/QOS",
-            "http://jira-new.freewheel.tv/browse/INK",
-            "http://jira-new.freewheel.tv/browse/OPP",
+PROJECTS = ["http://jira-old.freewheel.tv/browse/CLIENTHELP",
+            "http://jira-old.freewheel.tv/browse/MRM",
+            "http://jira-old.freewheel.tv/browse/FDB",
+            "http://jira-old.freewheel.tv/browse/QOS",
+            "http://jira.freewheel.tv/browse/INK",
+            "http://jira.freewheel.tv/browse/OPP",
+            "http://jira.freewheel.tv/browse/ESC",
             "http://jira.freewheel.tv/browse/OPS"]
 
 # load all projects
