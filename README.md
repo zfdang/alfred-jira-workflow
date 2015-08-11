@@ -1,6 +1,6 @@
 # Alfred JIRA Workflow
 
-this workflow allows you to open JIRA ticket by inputing ticket number only.
+this workflow allows you to open JIRA ticket by inputing ticket number directly.
 
 Alfred > jira 1234
 
@@ -13,7 +13,7 @@ All possible tickets will be shown, and you can select any of them and open it i
 
 just double click file "FreeWheel JIRA.alfredworkflow" to install it 
 
-## Step.2 Configure the workflow to point to your JIRA system
+## Step.2 Configure workflow to point to your JIRA system
 
 Alfred --> Prefereces --> Workflow --> FreeWheel JIRA
 
