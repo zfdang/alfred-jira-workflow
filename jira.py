@@ -7,23 +7,15 @@ import json
 import sys
 import os.path
 
-PROJECTS = ["http://jira-old.freewheel.tv/browse/CLIENTHELP",
-            "http://jira-old.freewheel.tv/browse/MRM",
-            "http://jira-old.freewheel.tv/browse/FDB",
-            "http://jira-old.freewheel.tv/browse/QOS",
-            "http://jira.freewheel.tv/browse/INK",
-            "http://jira.freewheel.tv/browse/OPP",
-            "http://jira.freewheel.tv/browse/ESC",
-            "http://jira.freewheel.tv/browse/OPS"]
-
 # load all projects
-# if os.path.exists("projects.json"):
-#     project_file = file("projects.json", "r")
-#     results = json.load(project_file)
-#     if len(results) > 0:
-#         PROJECTS = []
-#         for project in results:
-#             PROJECTS.append(project['key'])
+if os.path.exists("projects.json"):
+     project_file = file("projects.json", "r")
+     results = json.load(project_file)
+     if len(results) > 0:
+         PROJECTS = []
+         for project in results:
+             PROJECTS.append(project['key'])
+
 PROJECTS.sort()
 
 # generate options for ticket number
