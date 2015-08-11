@@ -2,17 +2,31 @@
 
 this workflow allows you to open JIRA ticket by inputing ticket number only.
 
-## Step.1 Update Project Lists
+## Step.1 Install workflow to your Alfred
 
-Visit the below URL to get all projects list of your JIRA system:
+just double click file "FreeWheel JIRA.alfredworkflow" to install it 
 
-> http://host:port/rest/api/2/project
+## Step.2 Configure the workflow to point to your JIRA system
 
-and save the result to file [projects.json](projects.json)
+Alfred --> Prefereces --> Workflow --> FreeWheel JIRA
 
-## Step.2 Set JIRA host
+--> Configure the script filter --> open workflow folder
 
-[jira.json](jira.json)
+![image](configure.jpg)
+
+
+Edit PROJECTS in jira.py file:
+
+> PROJECTS = ["http://jira-old.freewheel.tv/browse/CLIENTHELP",
+>             "http://jira-old.freewheel.tv/browse/MRM",
+>             "http://jira-old.freewheel.tv/browse/FDB",
+>             "http://jira-old.freewheel.tv/browse/QOS",
+>             "http://jira.freewheel.tv/browse/INK",
+>             "http://jira.freewheel.tv/browse/OPP",
+>             "http://jira.freewheel.tv/browse/ESC",
+>             "http://jira.freewheel.tv/browse/OPS"]
+
+Save it.
 
 ## Step.3 Open JIRA ticket in Alfred with keyword "jira"
 
