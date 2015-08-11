@@ -10,7 +10,7 @@ just double click file "FreeWheel JIRA.alfredworkflow" to install it
 
 Alfred --> Prefereces --> Workflow --> FreeWheel JIRA
 
---> Configure the script filter --> open workflow folder
+--> Select "Show in Finder" in Right-click Menu
 
 ![image](configure.jpg)
 
